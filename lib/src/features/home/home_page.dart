@@ -15,6 +15,11 @@ class _HomePageState extends State<HomePage> {
   final HomeController controller = HomeController();
 
   @override
+  void initState() {
+    super.initState();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
