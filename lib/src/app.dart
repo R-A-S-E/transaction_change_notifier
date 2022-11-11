@@ -1,4 +1,4 @@
-import 'package:change_notifier/src/home/home_page.dart';
+import 'package:change_notifier/src/features/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
